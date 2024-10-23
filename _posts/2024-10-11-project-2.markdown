@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: "portfolio-2"
+title: "Project 2"
+date: 2024-10-02
+img: cake.png
+alt: "Cake Image"
+project-date: May 2014
+client: UConn
+category: Causal Inference
+description: "This is a brief description of Project 2."
+---
+
+## Test Content
+
+This is test content for Project 2.

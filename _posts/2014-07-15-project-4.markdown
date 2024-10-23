@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: "portfolio-4"
+title: "Project 4"
+date: 2024-10-14
+img: game.png
+alt: "Game Image"
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "This is a brief description of Project 6."
+---
+
+# Additional Information # 4
+
+This is the content about project 4.
+
+### Header level 2

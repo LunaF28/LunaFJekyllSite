@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: "portfolio-3"
+title: "Project 3"
+date: 2024-10-14
+img: circus.png
+alt: "Circus Image"
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "This is a brief description of Project 6."
+---
+
+## Additional Information # 3
+
+This is the content about project 3.

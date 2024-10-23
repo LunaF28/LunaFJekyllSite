@@ -1,0 +1,25 @@
+---
+layout: default
+modal-id: "portfolio-1"
+title: "Project 1"
+date: 2024-10-06
+img: cabin.png
+alt: "Cabin Image"
+project-date: April 2014
+client: BE
+category: Data Process
+description: "This is a brief description of Project 1."
+---
+
+## Additional Information
+
+Add more details about the project in markdown format.
+
+### Key Features
+- Feature 1: Descriptive text here.
+- Feature 2: More details here.
+- Feature 3: Even more information.
+
+![drone](https://raw.githubusercontent.com/allegheny-college-cmpsc-104-Fall-2024/lab01/main/graphics/DocEng_logo.png)
+
+### Conclusion
