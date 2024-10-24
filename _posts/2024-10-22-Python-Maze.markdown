@@ -48,6 +48,9 @@ This Python program generates a **perfect maze**, where each tile has only one p
 - Written in **Python 3.11.5**.
 - Recommended to run in **IDLE**.
 
+### Download
+- [Download the maze maker+solver here!](programs/maze-with-actual-docs.py)
+
 ### Example Maze
 ![Created and Solved Maze](img/portfolio/maze.png)
 
