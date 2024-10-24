@@ -6,7 +6,7 @@ date: 2022-12-01
 img: cabin.png
 alt: "Cabin Image"
 project-date: 2022-12-01 12:00:00 -0400
-client: BE
+client: HZ
 category: Python Coding
 description: "This is a set of Python 3 programs that work together to create and use a Binary Search Tree for 3 letter words"
 ---

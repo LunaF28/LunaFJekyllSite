@@ -6,7 +6,7 @@ date: 2024-05-15
 img: safe.png
 alt: "Safe Image"
 project-date: 2024-05-15 12:00:00 -0400
-client: BE
+client: HZ
 category: Graphic Design
 description: "This is a sample of the graphic design work that I did for Baltimore City Councilman Mark Conway."
 ---

@@ -6,7 +6,7 @@ date: 2023-01-01
 img: submarine.png
 alt: "Submarine Image"
 project-date: 2024-10-22 1:00:00 -0400
-client: BE
+client: HZ
 category: Python Coding
 description: "This is a Python 3 program that creates and (optionally) solves a perfect maze"
 ---
