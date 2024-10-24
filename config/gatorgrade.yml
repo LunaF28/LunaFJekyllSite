@@ -1,0 +1,20 @@
+setup: |
+  echo "🐊 All project dependencies have been installed!"
+---
+
+# perform checks on a file
+- README.md:
+    - description: Ensure that a README.md files exist
+      check: ConfirmFileExists
+    - description: No TODOs remain in the README.md files
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+
+# count number of commits in the GitHub repository
+- description: Have at least 3 of commits in repository
+  check: CountCommits
+  options:
+    count: 3

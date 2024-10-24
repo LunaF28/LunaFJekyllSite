@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: "portfolio-1"
-title: "Project 1"
-date: 2024-10-06
-img: cabin.png
-alt: "Cabin Image"
-project-date: April 2014
+title: "Python Maze Creator and Solver"
+date: 2023-01
+img: submarine.png
+alt: "Submarine Image"
+project-date: 2024-10-23 1:00:00
 client: BE
-category: Data Process
-description: "This is a brief description of Project 1."
+category: Python Coding
+description: "This is a Python 3 program that creates and (optionally) solves a perfect maze"
 ---
 
 ## Additional Information
